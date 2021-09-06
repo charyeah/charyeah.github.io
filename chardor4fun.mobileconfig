@@ -29,7 +29,7 @@
 			<key>PPP</key>
 			<dict>
 				<key>CommRemoteAddress</key>
-				<string>cdf7.x24hr.com</string>
+				<string>cdf365.itemdb.com</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures VPN settings</string>

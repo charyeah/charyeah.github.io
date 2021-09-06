@@ -57,11 +57,11 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Provide a friendly setup @Charlie</string>
+	<string>Provide a friendly setup @Char</string>
 	<key>PayloadDisplayName</key>
-	<string>CharSet for chardorfun</string>
+	<string>CharSet@CDF365</string>
 	<key>PayloadIdentifier</key>
-	<string>charlie</string>
+	<string>char44</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
